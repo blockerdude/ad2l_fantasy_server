@@ -1,1 +1,1 @@
-DROP TABLE conference
+DROP TABLE conference;
